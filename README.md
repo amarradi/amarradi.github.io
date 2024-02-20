@@ -1,4 +1,4 @@
-#my projects
+*my projects
 
 https://github.com/amarradi/palatschinkencounter
 
